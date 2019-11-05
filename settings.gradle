@@ -1,0 +1,2 @@
+include ':app', ':base', ':wechat', ':alipay'
+rootProject.name='pay'
